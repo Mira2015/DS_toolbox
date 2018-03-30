@@ -1,0 +1,3 @@
+Training set  --> to fit the parameters [i.e., weights]
+Validation set --> to tune the parameters [i.e., architecture]
+Test set -->to assess the performance [i.e., generalization and predictive power]
