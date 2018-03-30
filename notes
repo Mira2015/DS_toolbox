@@ -4,3 +4,5 @@ Test set -->to assess the performance [i.e., generalization and predictive power
 
 How to randomlization
 https://stackoverflow.com/questions/38250710/how-to-split-data-into-3-sets-train-validation-and-test/38251213#38251213
+
+https://stackoverflow.com/questions/40829137/stratified-train-validation-test-split-in-scikit-learn?noredirect=1&lq=1
