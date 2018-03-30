@@ -1,3 +1,6 @@
 Training set  --> to fit the parameters [i.e., weights]
 Validation set --> to tune the parameters [i.e., architecture]
 Test set -->to assess the performance [i.e., generalization and predictive power]
+
+How to randomlization
+https://stackoverflow.com/questions/38250710/how-to-split-data-into-3-sets-train-validation-and-test/38251213#38251213
